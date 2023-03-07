@@ -42,3 +42,4 @@ Soy analista de sistemas informaticos vivo en **Argentina** ,Me gusta mucho la c
 |alias                |listar los alias        |
 |diff                 |Comapara dos archivos   |       
 |ln                   |link simbolico          |
+|pavucontrol          |control del audio       |
